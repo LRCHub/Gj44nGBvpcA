@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "この夜を止めてよ",
+  "base_artist": "JUJU",
+  "createdAt": "2026-02-21T17:33:14.812884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "この夜を止めてよ",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/01_この夜を止めてよ_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "この夜を止めてよ",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/02_この夜を止めてよ_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "この夜を止めてよ",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/03_この夜を止めてよ_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "この夜を止めてよ (From THE FIRST TAKE) - Konoyoruwo Tometeyo (From THE FIRST TAKE)",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/04_この夜を止めてよ_(From_THE_FIRST_TAKE)_-_Konoyoruwo_Tometeyo_(From_THE_FIRST_TAKE)_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "この夜を止めてよ",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/05_この夜を止めてよ_JUJU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "この夜を止めてよ",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_01_この夜を止めてよ_JUJU.txt"
+    }
+  ]
+}
